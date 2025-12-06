@@ -54,9 +54,37 @@ Designed an interactive dashboard including:<br>
 - Avg rating: 3.75<br>
 - Subscription distribution (73% non-subscribers)<br>
 - Revenue by category, age group, and segment (Page 7 dashboard)
-- ![Dashboard](## 📊 Customer Behavior Dashboard
+- 📊 Customer Behavior Dashboard
 
 ![Dashboard](https://github.com/sammedah/Customer-Behavior-Analysis/raw/main/Customer%20Analysis%20%20Dashboard.png)
+
+## 5. Dashboard
+
+Below is the Power BI dashboard built for analyzing customer behavior.
+
+### 📊 Dashboard Overview
+![Dashboard](https://github.com/sammedah/Customer-Behavior-Analysis/raw/main/Customer%20Analysis%20%20Dashboard.png)
+
+### 🧾 Key Features
+
+#### **KPIs**
+- Total customer count  
+- Average purchase amount  
+- Average rating  
+
+#### **Filters**
+- Subscription status (Yes/No)  
+- Gender  
+- Category  
+- Shipping Type  
+
+#### **Visuals Included**
+- Revenue by Category  
+- Sales by Category  
+- Revenue by Age Group  
+- Sales by Age Group  
+- Subscription Breakdown  
+
 
 
 
