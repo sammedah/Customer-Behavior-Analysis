@@ -13,7 +13,7 @@ Demographics: Age, Gender, Subscription Status <br>
 Purchase details: Item Purchased, Category, Amount, Season, Size, Color<br>
 Behavior: Discount Applied, Review Rating, Previous Purchases, Frequency, Shipping Type<br>
 Missing values: 37 missing ratings handled during cleaning<br>
-Raw Dataset : 
+Raw Dataset : [![PDF](https://img.shields.io/badge/Open-File-red)](https://github.com/sammedah/Customer-Behavior-Analysis/blob/main/project.csv)
 
 # Tools & Technologies
 Python: Pandas, NumPy, Matplotlib/Seaborn <br>
