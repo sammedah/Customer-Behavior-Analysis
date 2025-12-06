@@ -6,14 +6,14 @@ It follows a complete data analytics workflow — from data loading and cleaning
 A final PPT report was generated using Gamma.
 
 # Dataset
-Total Rows: 3,900
-Columns: 18
-Features include:
-Demographics: Age, Gender, Subscription Status
-Purchase details: Item Purchased, Category, Amount, Season, Size, Color
-Behavior: Discount Applied, Review Rating, Previous Purchases, Frequency, Shipping Type
-Missing values: 37 missing ratings handled during cleaning
-Dataset : [![PDF](https://img.shields.io/badge/Open-File-red)]()
+Total Rows: 3,900 <br>
+Columns: 18 <br>
+Features include:<br>
+Demographics: Age, Gender, Subscription Status <br>
+Purchase details: Item Purchased, Category, Amount, Season, Size, Color<br>
+Behavior: Discount Applied, Review Rating, Previous Purchases, Frequency, Shipping Type<br>
+Missing values: 37 missing ratings handled during cleaning<br>
+Analysis Report : [![PDF](https://img.shields.io/badge/Open-File-red)](https://github.com/sammedah/Customer-Behavior-Analysis/blob/main/Customer%20Shopping%20Behavior%20Analysis.pdf)
 
 
 
