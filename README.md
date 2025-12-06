@@ -54,7 +54,10 @@ Designed an interactive dashboard including:<br>
 - Avg rating: 3.75<br>
 - Subscription distribution (73% non-subscribers)<br>
 - Revenue by category, age group, and segment (Page 7 dashboard)
-- ![Dashboard](https://onedrive.live.com/embed?resid=939AEED706711C80%21107&authkey=%21CMm4wfC7Ic6Q52K&width=1900&height=1000)
+- ![Dashboard](## 📊 Customer Behavior Dashboard
+
+![Dashboard](https://github.com/sammedah/Customer-Behavior-Analysis/raw/main/Customer%20Analysis%20%20Dashboard.png)
+
 
 
 
