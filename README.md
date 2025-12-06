@@ -109,7 +109,7 @@ Below is the Power BI dashboard built for analyzing customer behavior.
 ### Clone the Repository
 ```bash
 git clone https://github.com/your-username/customer-behavior-analysis.git
-exit
+
 
 Install Dependencies
 pip install -r requirements.txt
