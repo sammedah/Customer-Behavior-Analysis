@@ -15,5 +15,45 @@ Behavior: Discount Applied, Review Rating, Previous Purchases, Frequency, Shippi
 Missing values: 37 missing ratings handled during cleaning<br>
 Analysis Report : [![PDF](https://img.shields.io/badge/Open-File-red)](https://github.com/sammedah/Customer-Behavior-Analysis/blob/main/Customer%20Shopping%20Behavior%20Analysis.pdf)
 
+# Tools & Technologies
+Python: Pandas, NumPy, Matplotlib/Seaborn <br>
+SQL Databases: PostgreSQL server <br>
+Power BI: Dashboard creation <br>
+Jupyter Notebook / VS Code for coding and analysis <br>
+
+## 4. Steps Followed
+
+### Step 1 – Data Loading (Python)
+Loaded dataset using Pandas<br>
+Performed basic inspection using `.info()`, `.describe()`, `.isnull()`<br><br>
+
+### Step 2 – Data Cleaning & Preparation
+Filled missing review ratings using median per category<br>
+Converted columns to snake_case<br>
+Created new features:<br>
+- age_group (young adult, adult, senior)<br>
+- purchase_frequency_days<br>
+Removed redundant columns such as `promo_code_used`<br><br>
+
+### Step 3 – SQL Analysis (PostgreSQL / MySQL / SQL Server)
+Loaded cleaned data into SQL and performed business analysis:<br>
+- Revenue by gender<br>
+- High-spending customers using discounts<br>
+- Top-rated products<br>
+- Shipping type comparison<br>
+- Subscribers vs non-subscribers spend summary<br>
+- Discount-dependent products<br>
+- Customer segmentation (New / Returning / Loyal)<br>
+- Top 3 products in each category<br>
+- Revenue by age group (Young Adults contribute the most)<br><br>
+
+### Step 4 – Dashboard (Power BI)
+Designed an interactive dashboard including:<br>
+- Total customers: 3.9K<br>
+- Avg purchase amount: $59.76<br>
+- Avg rating: 3.75<br>
+- Subscription distribution (73% non-subscribers)<br>
+- Revenue by category, age group, and segment (Page 7 dashboard)
+
 
 
