@@ -106,14 +106,31 @@ Below is the Power BI dashboard built for analyzing customer behavior.
 
 - ## 7. How to Run the Project
 
-### Clone the Repository
+### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/customer-behavior-analysis.git
 
 
-Install Dependencies
+### 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
+
+### 3️⃣ Run the Python Notebook
+Open the Jupyter Notebook (.ipynb)
+Load the dataset
+Clean and preprocess the data
+Perform EDA and feature creation
+Export the cleaned dataset as a CSV file
+
+### 4️⃣ Set Up the SQL Database
+Create a new database in PostgreSQL / MySQL / SQL Server
+Import the cleaned CSV into the database
+Run business queries from the sql/ folder to generate insights
+
+### 5️⃣ Open the Power BI Dashboard
+Open the .pbix file in Power BI Desktop
+Refresh the SQL database connection
+Interact with the dashboard to explore insights
 
 
 
