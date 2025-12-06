@@ -106,11 +106,12 @@ Below is the Power BI dashboard built for analyzing customer behavior.
 
 - ## 7. How to Run the Project
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/your-username/customer-behavior-analysis.git
+exit
 
-### Install Dependencies
+Install Dependencies
 pip install -r requirements.txt
 
 
