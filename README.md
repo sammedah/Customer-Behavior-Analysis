@@ -13,3 +13,23 @@ Demographics: Age, Gender, Subscription Status
 Purchase details: Item Purchased, Category, Amount, Season, Size, Color
 Behavior: Discount Applied, Review Rating, Previous Purchases, Frequency, Shipping Type
 Missing values: 37 missing ratings handled during cleaning
+
+**2. Dataset
+
+Total Rows: 3,900
+
+Columns: 18
+
+Features include:
+
+Demographics: Age, Gender, Subscription Status
+
+Purchase details: Item Purchased, Category, Amount, Season, Size, Color
+
+Behavior: Discount Applied, Review Rating, Previous Purchases, Frequency, Shipping Type
+
+Missing values: 37 missing ratings handled during cleaning 
+
+Customer Shopping Behavior Anal…
+
+.**
