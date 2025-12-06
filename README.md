@@ -13,5 +13,6 @@ Demographics: Age, Gender, Subscription Status
 Purchase details: Item Purchased, Category, Amount, Season, Size, Color
 Behavior: Discount Applied, Review Rating, Previous Purchases, Frequency, Shipping Type
 Missing values: 37 missing ratings handled during cleaning
-Dataset : https://github.com/sammedah/Customer-Behavior-Analysis/blob/main/project.csv
+Dataset : [![PDF](https://img.shields.io/badge/Open-PDF-red)](file.pdf)
+
 
