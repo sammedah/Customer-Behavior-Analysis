@@ -13,7 +13,7 @@ Demographics: Age, Gender, Subscription Status <br>
 Purchase details: Item Purchased, Category, Amount, Season, Size, Color<br>
 Behavior: Discount Applied, Review Rating, Previous Purchases, Frequency, Shipping Type<br>
 Missing values: 37 missing ratings handled during cleaning<br>
-Analysis Report : [![PDF](https://img.shields.io/badge/Open-File-red)](https://github.com/sammedah/Customer-Behavior-Analysis/blob/main/Customer%20Shopping%20Behavior%20Analysis.pdf)
+Raw Dataset : 
 
 # Tools & Technologies
 Python: Pandas, NumPy, Matplotlib/Seaborn <br>
@@ -56,8 +56,6 @@ Designed an interactive dashboard including:<br>
 - Revenue by category, age group, and segment (Page 7 dashboard)
 - 📊 Customer Behavior Dashboard
 
-![Dashboard](https://github.com/sammedah/Customer-Behavior-Analysis/raw/main/Customer%20Analysis%20%20Dashboard.png)
-
 ## 5. Dashboard
 
 Below is the Power BI dashboard built for analyzing customer behavior.
@@ -84,6 +82,27 @@ Below is the Power BI dashboard built for analyzing customer behavior.
 - Revenue by Age Group  
 - Sales by Age Group  
 - Subscription Breakdown  
+
+
+## 6. Results & Insights
+
+### 🔍 Key Findings
+- **Young Adults generate the highest revenue** among all age groups.  
+- **Standard shipping is the most popular**, but Express shipping customers spend slightly more.  
+- **Non-subscribers (73%) dominate**, but subscribers show stronger spending behavior.  
+- **Clothing category leads** in both total revenue and sales volume.  
+- Several product categories show **high dependence on discount usage**.
+---
+### 💼 Business Recommendations
+*(Based on insights from the analysis)*
+
+- **Promote subscription benefits** to increase subscriber count and long-term value.  
+- **Implement loyalty programs** to retain repeat purchasers.  
+- **Optimize discount strategy** to protect margins while still driving conversions.  
+- **Highlight best-selling and top-rated products** in marketing campaigns.  
+- **Target high-value age groups** such as Young Adults and Middle-aged consumers with personalized offers.
+
+- Analysis Report : [![PDF](https://img.shields.io/badge/Open-File-red)](https://github.com/sammedah/Customer-Behavior-Analysis/blob/main/Customer%20Shopping%20Behavior%20Analysis.pdf)
 
 
 
